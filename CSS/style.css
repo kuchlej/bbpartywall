@@ -1,7 +1,7 @@
 #board {
     width: 1000px;
     height: 700px;
-    background: url("../../Images/red brick background.jpg");
+    background: url("../Images/red brick background.jpg");
     background-repeat: no-repeat;
     background-size: stretch;
     margin: auto;
